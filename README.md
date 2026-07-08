@@ -149,7 +149,7 @@ Open:
 - API: `http://localhost:8000`
 - Swagger Docs: `http://localhost:8000/docs`
 
-Open `7.html` in your browser to access the frontend.
+Open `index.html` in your browser to access the frontend.
 
 ---
 
