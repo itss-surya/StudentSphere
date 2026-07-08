@@ -85,14 +85,14 @@ FastAPI Backend
 ```text
 StudentSphere/
 ├── main.py
-├── 7.html
+├── index.html
 ├── .env.example
 ├── .gitignore
 ├── __init__.py
 └── README.md
 ```
 
-> **Note:** `7.html` is the current frontend entry file. It can later be renamed to `index.html` for a more conventional project structure.
+
 
 ---
 
